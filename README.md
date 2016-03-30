@@ -1,4 +1,4 @@
-# ReleaseLevelReliabilityPrediction
+# Predicting the Reliability of Releases in Open Source Projects
 
 
 This repository is for the paper "Predicting the Reliability of Releases in Open Source Projects".
